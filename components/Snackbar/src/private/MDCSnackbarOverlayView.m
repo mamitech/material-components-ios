@@ -43,7 +43,7 @@ static const CGFloat MDCSnackbarLegacyBottomMargin_iPhone = 0;
 static const CGFloat MDCSnackbarLegacyBottomMargin_iPad = 0;
 
 // How far from the sides of the screen should the Snackbar be.
-static const CGFloat MDCSnackbarSideMargin_CompactWidth = 8;
+static const CGFloat MDCSnackbarSideMargin_CompactWidth = 16;
 static const CGFloat MDCSnackbarLegacySideMargin_CompactWidth = 0;
 static const CGFloat MDCSnackbarSideMargin_RegularWidth = 24;
 
